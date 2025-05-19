@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tim/Ap/KingdomAp/KingdomAp.csproj": {}
+  },
+  "projects": {
+    "/home/tim/Ap/KingdomAp/KingdomAp.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "/home/tim/Ap/KingdomAp/KingdomAp.csproj",
+        "projectName": "KingdomAp",
+        "projectPath": "/home/tim/Ap/KingdomAp/KingdomAp.csproj",
+        "packagesPath": "/home/tim/.nuget/packages/",
+        "outputPath": "/home/tim/Ap/KingdomAp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {},
+          "https://nuget.samboy.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "BepInEx.PluginInfoProps": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Lib.Harmony": {
+              "target": "Package",
+              "version": "[2.3.6, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

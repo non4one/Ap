@@ -1,0 +1,11 @@
+/home/tim/Ap/KingdomAp/obj/Debug/net472/KingdomAp.csproj.AssemblyReference.cache
+/home/tim/Ap/KingdomAp/obj/Debug/net472/MyPluginInfo.cs
+/home/tim/Ap/KingdomAp/obj/Debug/net472/KingdomAp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tim/Ap/KingdomAp/obj/Debug/net472/KingdomAp.AssemblyInfoInputs.cache
+/home/tim/Ap/KingdomAp/obj/Debug/net472/KingdomAp.AssemblyInfo.cs
+/home/tim/Ap/KingdomAp/obj/Debug/net472/KingdomAp.csproj.CoreCompileInputs.cache
+/home/tim/Ap/KingdomAp/obj/Debug/net472/KingdomAp.sourcelink.json
+/home/tim/Ap/KingdomAp/bin/Debug/net472/KingdomAp.dll
+/home/tim/Ap/KingdomAp/bin/Debug/net472/KingdomAp.pdb
+/home/tim/Ap/KingdomAp/obj/Debug/net472/KingdomAp.dll
+/home/tim/Ap/KingdomAp/obj/Debug/net472/KingdomAp.pdb

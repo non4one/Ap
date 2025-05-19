@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sTQKvmFxQjA=",
+  "success": true,
+  "projectFilePath": "/home/tim/Ap/KingdomAp/KingdomAp.csproj",
+  "expectedPackageFiles": [
+    "/home/tim/.nuget/packages/bepinex.plugininfoprops/2.1.0/bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "/home/tim/.nuget/packages/lib.harmony/2.3.6/lib.harmony.2.3.6.nupkg.sha512",
+    "/home/tim/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/tim/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
