@@ -1,5 +1,4 @@
 /home/tim/Ap/KingdomAp/obj/Debug/KingdomAp.csproj.AssemblyReference.cache
-/home/tim/Ap/KingdomAp/obj/Debug/MyPluginInfo.cs
 /home/tim/Ap/KingdomAp/obj/Debug/KingdomAp.GeneratedMSBuildEditorConfig.editorconfig
 /home/tim/Ap/KingdomAp/obj/Debug/KingdomAp.AssemblyInfoInputs.cache
 /home/tim/Ap/KingdomAp/obj/Debug/KingdomAp.AssemblyInfo.cs
@@ -9,5 +8,3 @@
 /home/tim/Ap/KingdomAp/bin/Debug/KingdomAp.pdb
 /home/tim/Ap/KingdomAp/obj/Debug/KingdomAp.dll
 /home/tim/Ap/KingdomAp/obj/Debug/KingdomAp.pdb
-/home/tim/Ap/KingdomAp/bin/Debug/0Harmony.dll
-/home/tim/Ap/KingdomAp/obj/Debug/KingdomAp.csproj.Up2Date

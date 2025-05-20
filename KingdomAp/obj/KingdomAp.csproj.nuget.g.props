@@ -12,7 +12,4 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/home/tim/.nuget/packages/" />
   </ItemGroup>
-  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)bepinex.plugininfoprops/2.1.0/build/BepInEx.PluginInfoProps.props" Condition="Exists('$(NuGetPackageRoot)bepinex.plugininfoprops/2.1.0/build/BepInEx.PluginInfoProps.props')" />
-  </ImportGroup>
 </Project>

@@ -17,11 +17,6 @@
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     </PropertyGroup>
 
-    <ItemGroup>
-        <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
-        <PackageReference Include="Lib.Harmony" Version="2.3.6" />
-    </ItemGroup>
-
     <!-- BIE6_IL2CPP -->
     <ItemGroup Condition="'$(Configuration)'=='BIE6_IL2CPP'">
         <Reference Include="0Harmony">

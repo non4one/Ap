@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("KingdomAp")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+81c66611be41df4539d2750dc96ce6142951da5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+f9524a512b8ecbc5aacfd80bc92d57c681a1329f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KingdomAp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KingdomAp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0.0")]
