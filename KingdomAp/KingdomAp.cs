@@ -28,8 +28,8 @@ public class KingdomAp : BaseUnityPlugin
 
     void Update()
     {
-        Event e = Event.current;
-        //if (e.isKey && e.type == EventType.KeyDown)
+        //Event e = Event.current;
+        //if (e.isKey && e.type == EventType.KeyDown)           //logging every Button Input
         //{
         //    Logger.LogInfo($"Key {e.keyCode} pressed");
         //}
@@ -45,19 +45,14 @@ public class KingdomAp : BaseUnityPlugin
         }
 
         //Need to fix logger to get every obj name
-        //
-        //if (Input.GetKeyDown(KeyCode.I))
-        //{
-        //    Logger.LogError($"I pressed");
-        //    ExportLoggedValuesToJson();
-        //    Logger.LogInfo($"Exported unique string log");
-        //}
-//
-        //void ExportLoggedValuesToJson()
-        //{
-        //    var sorted = loggedObj.OrderBy(s => s, System.StringComparer.Ordinal).ToList();
-        //    string json = "[\n" + string.Join(",\n", sorted.Select(s => $"\"{s}\"")) + "\n]";
-        //    File.WriteAllText("/mnt/Games/SteamGames/steamapps/common/Kingdom Two Crowns", json, Encoding.UTF8);
-        //}
+        
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            foreach (var obj in loggedObj)
+            {
+                Logger.LogMessage(obj);
+            }
+            Logger.LogInfo($"Exported unique string log");
+        }
     }
 }

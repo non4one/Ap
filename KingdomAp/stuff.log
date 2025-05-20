@@ -1,0 +1,2385 @@
+:
+[DOTween]
+[PartSys] [VFX] Greed Leaves (Pool 0-10 EX)
+[PartSys] [VFX] Portal Wound Pop (Pool 0-10 EX)
+[PartSys] [VFX] Portal Wound Pop Flipped (Pool 0-10 EX)
+[PartSys] [VFX] Volcano Dust (Pool 0-5 EX)
+[PartSys] Bash Dust (Pool 0-5 EX)
+[PartSys] Boulder Fragments (Pool 0-3 EX)
+[PartSys] Boulder Ground Dust (Pool 0-3 EX)
+[PartSys] Building Dust (Pool 0-10 EX)
+[PartSys] Foot Dust (Pool 0-12 EX)
+[PartSys] Goo Big (Pool 0-5 EX)
+[PartSys] Goo Small (Pool 0-10 EX)
+[PartSys] Hearts (Pool 0-3 EX)
+[PartSys] Steed Foot Sparkles (Pool)
+[PartSys] Stone Dust (Pool 0-8 EX)
+[PartSys] Teleport Sparks (Pool 0-4 EX)
+[PartSys] Transform Sparkles (Pool 0-3 EX)
+[PartSys] Tree Chop Leaves (Pool 0-3 EX)
+[VFX] One Shot Sparkle
+[VFX] Well Fed Sparkles
+A
+Achievements
+Actions
+Actions Panel
+ActionsParent
+ActivateAllPortals
+Addon
+Ambient
+Ambient Emitters
+Appearance Group
+Archer (Pool)
+Archer P1 [A]
+Archer P2 [C]
+Archer Shoots(Clone)
+Arrow (Pool)
+Arrow Hits Ground(Clone)
+Arrow Hits Wall(Clone)
+Arrow Hits Water(Clone)
+Arrow P1
+Arrow P2
+Arrow P3
+Arrow P4
+Arrows
+Ash Far VFX
+Ash Near VFX
+Audio
+Audio Listener
+Audio Parent
+AudioSource
+AudioSpawner
+AuroraBorealis(Clone)
+AuroraBorealisController
+AutoBuildBuildings
+Autodrop
+B
+Back
+Back Glyph
+Back L
+Back L (1)
+Back R
+Back R (1)
+Back Text
+BackdropCloserLayer
+BackdropFar(Clone)
+BackdropFarLayer
+BackdropGreece
+BackdropNear(Clone)
+BackdropNearLayer
+Background
+BackgroundDetailLayer1
+BackgroundDetailLayer2
+BackgroundDetailLayer3
+BackgroundExtremeFarLayer
+BackgroundExtremeNearLayer
+BackgroundFarLayer
+BackgroundImage
+BackgroundMidLayer
+BackgroundMonumentFarLayer
+BackgroundMonumentLayer
+BackgroundMonumentNearLayer
+BackgroundNearLayer
+BagCoin(Clone)
+BagGem (Pool)
+BallistaBolt (Pool)
+Bamboo
+Banker Closes Castle Doors(Clone)
+Banker(Clone)
+Banner
+Banner Icon
+Banner Pole
+Base Left
+Base Right
+Beach BGF(Clone)
+Beach(Clone)
+Beach(Clone) - NotGrassable
+beach_portal_back
+beach_portal_front
+beach_portal_wound_01
+beach_portal_wound_02
+beach_portal_wound_03
+beach_portal_wound_04
+beach_portal_wound_05
+beach_portal_wound_06
+beach_portal_wound_07
+BeachPortal(Clone)
+BeckonText
+BeckonTextContainer
+BeckonTextShadow
+Beggar (1) [0]
+Beggar (1) [4]
+Beggar (1) [6]
+Beggar (2) [5]
+Beggar (Pool)
+Beggar [1]
+Beggar [2]
+Beggar [3]
+Beggar [7]
+Beggar Becomes Peasant(Clone)
+Beggar Camp(Clone)
+beggar_camp_back
+BerryBush (Pool)
+bg_segment(-210)
+bg_segment(-209)
+bg_segment(-208)
+bg_segment(-207)
+bg_segment(-206)
+bg_segment(-205)
+bg_segment(-204)
+bg_segment(-203)
+bg_segment(-202)
+bg_segment(-201)
+bg_segment(-200)
+bg_segment(-199)
+bg_segment(-198)
+bg_segment(-197)
+bg_segment(-196)
+bg_segment(-195)
+bg_segment(-194)
+bg_segment(-193)
+bg_segment(-192)
+bg_segment(-191)
+bg_segment(-190)
+bg_segment(-189)
+bg_segment(-188)
+bg_segment(-187)
+bg_segment(-186)
+bg_segment(-185)
+bg_segment(-184)
+bg_segment(-183)
+bg_segment(-182)
+bg_segment(-181)
+bg_segment(-180)
+bg_segment(-179)
+bg_segment(-178)
+bg_segment(-177)
+bg_segment(-176)
+bg_segment(-175)
+bg_segment(-174)
+bg_segment(-173)
+bg_segment(-172)
+bg_segment(-171)
+bg_segment(-170)
+bg_segment(-169)
+bg_segment(-168)
+bg_segment(-167)
+bg_segment(-166)
+bg_segment(-165)
+bg_segment(-164)
+bg_segment(-163)
+bg_segment(-162)
+bg_segment(-161)
+bg_segment(-160)
+bg_segment(-159)
+bg_segment(-158)
+bg_segment(-157)
+bg_segment(-156)
+bg_segment(-155)
+bg_segment(-154)
+bg_segment(-153)
+bg_segment(-152)
+bg_segment(-151)
+bg_segment(-150)
+bg_segment(-149)
+bg_segment(-148)
+bg_segment(-147)
+bg_segment(-146)
+bg_segment(-145)
+bg_segment(-144)
+bg_segment(-143)
+bg_segment(-142)
+bg_segment(-141)
+bg_segment(-140)
+bg_segment(-139)
+bg_segment(-138)
+bg_segment(-137)
+bg_segment(-136)
+bg_segment(-135)
+bg_segment(-134)
+bg_segment(-133)
+bg_segment(-132)
+bg_segment(-131)
+bg_segment(-130)
+bg_segment(-129)
+bg_segment(-128)
+bg_segment(-127)
+bg_segment(-126)
+bg_segment(-125)
+bg_segment(-124)
+bg_segment(-123)
+bg_segment(-122)
+bg_segment(-121)
+bg_segment(-120)
+bg_segment(-119)
+bg_segment(-118)
+bg_segment(-117)
+bg_segment(-116)
+bg_segment(-115)
+bg_segment(-114)
+bg_segment(-113)
+bg_segment(-112)
+bg_segment(-111)
+bg_segment(-110)
+bg_segment(-109)
+bg_segment(-108)
+bg_segment(-107)
+bg_segment(-106)
+bg_segment(-105)
+bg_segment(-104)
+bg_segment(-103)
+bg_segment(-102)
+bg_segment(-101)
+bg_segment(-100)
+bg_segment(-99)
+bg_segment(-98)
+bg_segment(-97)
+bg_segment(-96)
+bg_segment(-95)
+bg_segment(-94)
+bg_segment(-93)
+bg_segment(-92)
+bg_segment(-91)
+bg_segment(-90)
+bg_segment(-89)
+bg_segment(-88)
+bg_segment(-87)
+bg_segment(-86)
+bg_segment(-85)
+bg_segment(-84)
+bg_segment(-83)
+bg_segment(-82)
+bg_segment(-81)
+bg_segment(-80)
+bg_segment(-79)
+bg_segment(-78)
+bg_segment(-77)
+bg_segment(-76)
+bg_segment(-75)
+bg_segment(-74)
+bg_segment(-73)
+bg_segment(-72)
+bg_segment(-71)
+bg_segment(-70)
+bg_segment(-69)
+bg_segment(-68)
+bg_segment(-67)
+bg_segment(-66)
+bg_segment(-65)
+bg_segment(-64)
+bg_segment(-63)
+bg_segment(-62)
+bg_segment(-61)
+bg_segment(-60)
+bg_segment(-59)
+bg_segment(-58)
+bg_segment(-57)
+bg_segment(-56)
+bg_segment(-55)
+bg_segment(-54)
+bg_segment(-53)
+bg_segment(-52)
+bg_segment(-51)
+bg_segment(-50)
+bg_segment(-49)
+bg_segment(-48)
+bg_segment(-47)
+bg_segment(-46)
+bg_segment(-45)
+bg_segment(-44)
+bg_segment(-43)
+bg_segment(-42)
+bg_segment(-41)
+bg_segment(-40)
+bg_segment(-39)
+bg_segment(-38)
+bg_segment(-37)
+bg_segment(-36)
+bg_segment(-35)
+bg_segment(-34)
+bg_segment(-33)
+bg_segment(-32)
+bg_segment(-31)
+bg_segment(-30)
+bg_segment(-29)
+bg_segment(-28)
+bg_segment(-27)
+bg_segment(-26)
+bg_segment(-25)
+bg_segment(-24)
+bg_segment(-23)
+bg_segment(-22)
+bg_segment(-21)
+bg_segment(-20)
+bg_segment(-19)
+bg_segment(-18)
+bg_segment(-17)
+bg_segment(-16)
+bg_segment(-15)
+bg_segment(-14)
+bg_segment(-13)
+bg_segment(-12)
+bg_segment(-11)
+bg_segment(-10)
+bg_segment(-9)
+bg_segment(-8)
+bg_segment(-7)
+bg_segment(-6)
+bg_segment(-5)
+bg_segment(-4)
+bg_segment(-3)
+bg_segment(-2)
+bg_segment(-1)
+bg_segment(0)
+bg_segment(1)
+bg_segment(2)
+bg_segment(3)
+bg_segment(4)
+bg_segment(5)
+bg_segment(6)
+bg_segment(7)
+bg_segment(8)
+bg_segment(9)
+bg_segment(10)
+bg_segment(11)
+bg_segment(12)
+bg_segment(13)
+bg_segment(14)
+bg_segment(15)
+bg_segment(16)
+bg_segment(17)
+bg_segment(18)
+bg_segment(19)
+bg_segment(20)
+bg_segment(21)
+bg_segment(22)
+bg_segment(23)
+bg_segment(24)
+bg_segment(25)
+bg_segment(26)
+bg_segment(27)
+bg_segment(28)
+bg_segment(29)
+bg_segment(30)
+bg_segment(31)
+bg_segment(32)
+bg_segment(33)
+bg_segment(34)
+bg_segment(35)
+bg_segment(36)
+bg_segment(37)
+bg_segment(38)
+bg_segment(39)
+bg_segment(40)
+bg_segment(41)
+bg_segment(42)
+bg_segment(43)
+bg_segment(44)
+bg_segment(45)
+bg_segment(46)
+bg_segment(47)
+bg_segment(48)
+bg_segment(49)
+bg_segment(50)
+bg_segment(51)
+bg_segment(52)
+bg_segment(53)
+bg_segment(54)
+bg_segment(55)
+bg_segment(56)
+bg_segment(57)
+bg_segment(58)
+bg_segment(59)
+bg_segment(60)
+bg_segment(61)
+bg_segment(62)
+bg_segment(63)
+bg_segment(64)
+bg_segment(65)
+bg_segment(66)
+bg_segment(67)
+bg_segment(68)
+bg_segment(69)
+bg_segment(70)
+bg_segment(71)
+bg_segment(72)
+bg_segment(73)
+bg_segment(74)
+bg_segment(75)
+bg_segment(76)
+bg_segment(77)
+bg_segment(78)
+bg_segment(79)
+bg_segment(80)
+bg_segment(81)
+bg_segment(82)
+bg_segment(83)
+bg_segment(84)
+bg_segment(85)
+bg_segment(86)
+bg_segment(87)
+bg_segment(88)
+bg_segment(89)
+bg_segment(90)
+bg_segment(91)
+bg_segment(92)
+bg_segment(93)
+bg_segment(94)
+bg_segment(95)
+bg_segment(96)
+bg_segment(97)
+bg_segment(98)
+bg_segment(99)
+bg_segment(100)
+bg_segment(101)
+bg_segment(102)
+bg_segment(103)
+bg_segment(104)
+bg_segment(105)
+bg_segment(106)
+bg_segment(107)
+bg_segment(108)
+bg_segment(109)
+bg_segment(110)
+bg_segment(111)
+bg_segment(112)
+bg_segment(113)
+bg_segment(114)
+bg_segment(115)
+bg_segment(116)
+bg_segment(117)
+bg_segment(118)
+bg_segment(119)
+bg_segment(120)
+bg_segment(121)
+bg_segment(122)
+bg_segment(123)
+bg_segment(124)
+bg_segment(125)
+bg_segment(126)
+bg_segment(127)
+bg_segment(128)
+bg_segment(129)
+bg_segment(130)
+bg_segment(131)
+bg_segment(132)
+bg_segment(133)
+bg_segment(134)
+bg_segment(135)
+bg_segment(136)
+bg_segment(137)
+bg_segment(138)
+bg_segment(139)
+bg_segment(140)
+bg_segment(141)
+bg_segment(142)
+bg_segment(143)
+bg_segment(144)
+bg_segment(145)
+bg_segment(146)
+bg_segment(147)
+bg_segment(148)
+bg_segment(149)
+bg_segment(150)
+bg_segment(151)
+bg_segment(152)
+bg_segment(153)
+bg_segment(154)
+bg_segment(155)
+bg_segment(156)
+bg_segment(157)
+bg_segment(158)
+bg_segment(159)
+bg_segment(160)
+bg_segment(161)
+bg_segment(162)
+bg_segment(163)
+bg_segment(164)
+bg_segment(165)
+bg_segment(166)
+bg_segment(167)
+bg_segment(168)
+bg_segment(169)
+bg_segment(170)
+bg_segment(171)
+bg_segment(172)
+bg_segment(173)
+bg_segment(174)
+bg_segment(175)
+bg_segment(176)
+bg_segment(177)
+bg_segment(178)
+bg_segment(179)
+bg_segment(180)
+bg_segment(181)
+bg_segment(182)
+bg_segment(183)
+bg_segment(184)
+bg_segment(185)
+bg_segment(186)
+bg_segment(187)
+bg_segment(188)
+bg_segment(189)
+bg_segment(190)
+bg_segment(191)
+bg_segment(192)
+bg_segment(193)
+bg_segment(194)
+bg_segment(195)
+bg_segment(196)
+bg_segment(197)
+bg_segment(198)
+bg_segment(199)
+bg_segment(200)
+bg_segment(201)
+bg_segment(202)
+bg_segment(203)
+bg_segment(204)
+bg_segment(205)
+bg_segment(206)
+bg_segment(207)
+bg_segment(208)
+bg_segment(209)
+bg_segment(210)
+bg_wall_wood_0
+BGWallSegments
+Big Stars
+Biome Button Prompts Container
+Biome Select Audio Listener
+BiomeHelper
+BiomePrefabPlaceholder
+Biomes
+BiomeSelectScreen
+BiomeToggle
+birchTree(Clone)
+birchTreeBG(Clone)
+Bird (Pool)
+Bird P1
+Bird P2
+Bird P3
+Bird P4
+Bird P5
+Bird P6
+Bird P7
+Bird P8
+Bird P9
+Bird P10
+Bird P11
+Bird P12
+Bird P13
+Bird P14
+Bird P15
+Bird P16
+Bird P17
+Bird P18
+Bird P19
+Bird P20
+Bird P21
+Bird P22
+Bird P23
+Bird P24
+Bird P25
+Bird P26
+Bird P27
+Bird P28
+Bird P29
+Bird P30
+Bird P31
+Bird P32
+Bird P33
+Bird P34
+Bird P35
+Bird P36
+Bird P37
+Bird P38
+Bird P39
+Bird P40
+Bird P41
+Bird P42
+Bird P43
+Bird P44
+Bird P45
+Bird P46
+Bird P47
+Bird P48
+Bird P49
+Bird P50
+Bird P51
+Bird P52
+Bird P53
+Bird P54
+Bird P55
+Bird P56
+Bird P57
+Bird P58
+Bird P59
+Bird P60
+Bird P61
+Bird P62
+Bird P63
+Bird P64
+Bird P65
+Bird P66
+Bird P67
+Bird P68
+Bird P69
+Bird P70
+Bird P71
+Bird P72
+Bird P73
+Bird P74
+Bird P75
+Bird P76
+Bird P77
+Bird P78
+Bird P79
+Bird P80
+Bird P81
+Bird P82
+Bird P83
+Bird P84
+Bird P85
+Bird P86
+Bird P87
+Bird P88
+Bird P89
+Bird P90
+Bird P91
+Bird P92
+Bird P93
+Bird P94
+Bird P95
+Bird P96
+Bird P97
+Bird P98
+Bird P99
+Bird P100
+Bird P101
+Bird P102
+Bird P103
+Bird P104
+Bird P105
+Bird P106
+Bird P107
+Bird P108
+Bird P109
+Bird P110
+Bird P111
+Bird P112
+Bird P113
+Bird P114
+Bird P115
+Bird P116
+Bird P117
+Bird P118
+Bird P119
+Bird P120
+Bird P121
+Bird P122
+Bird P123
+Bird P124
+Bird P125
+Bird P126
+Bird P127
+Bird P128
+Bird P129
+Bird P130
+Bird P131
+Bird P132
+Bird P133
+Birds Scatter(Clone)
+Blazon Editor
+Blender
+Block
+Block Player
+Block Player (1)
+Boar (Pool)
+BoarPiglet (Pool)
+Boat Bow Waves
+Boat Dug Up(Clone)
+Boat Moving(Clone)
+Boat Planks(Clone)
+Boat Sail Opens(Clone)
+Boat To Water(Clone)
+Boat Waves
+Boat(Clone)
+boat_body_s084_100
+boat_body_s084_156
+boat_body_s088_048
+boat_body_s088_060
+boat_body_s088_080
+boat_body_s088_124
+boat_body_s088_140
+boat_body_s092_024
+boat_body_s092_040
+boat_body_s092_052
+boat_body_s092_068
+boat_body_s092_088
+boat_body_s092_104
+boat_body_s092_132
+boat_body_s092_156
+boat_body_s096_020
+boat_body_s096_040
+boat_body_s096_064
+boat_body_s096_088
+boat_body_s096_108
+boat_body_s100_004
+boat_body_s100_024
+boat_body_s100_048
+boat_body_s100_072
+boat_body_s100_100
+boat_body_s100_120
+boat_body_s100_144
+boat_body_s108_036
+boat_body_s108_060
+boat_body_s108_084
+boat_body_s108_104
+boat_body_s108_128
+boat_body_s108_144
+boat_driftwood1
+boat_driftwood2
+boat_driftwood3
+boat_skeleton_s032_152
+boat_skeleton_s032_164
+boat_skeleton_s036_024
+boat_skeleton_s036_124
+boat_skeleton_s036_140
+boat_skeleton_s040_036
+boat_skeleton_s040_048
+boat_skeleton_s040_064
+boat_skeleton_s040_080
+boat_skeleton_s040_096
+boat_skeleton_s040_108
+boat_skeleton_s040_116
+boat_skeleton_s048_020
+boat_skeleton_s048_132
+boat_skeleton_s048_140
+boat_skeleton_s048_152
+boat_skeleton_s052_032
+boat_skeleton_s052_036
+boat_skeleton_s052_048
+boat_skeleton_s052_060
+boat_skeleton_s052_072
+boat_skeleton_s052_084
+boat_skeleton_s052_096
+boat_skeleton_s052_104
+boat_skeleton_s052_120
+boat_skeleton_s052_124
+BoatPart (Pool)
+BoatPart P1
+BoatPart P2
+BoatPart P3
+BoatPart P4
+BoatPart P5
+BoatPart P6
+BoatPart P7
+BoatPart P8
+BoatPart P9
+BoatPart P10
+BoatPart P11
+BoatPart P12
+BoatPart P13
+BoatPart P14
+BoatPart P15
+BoatPart P16
+BoatPart P17
+BoatPart P18
+BoatPart P19
+BoatPart P20
+BoatPart P21
+BoatPart P22
+BoatPart P23
+BoatPart P24
+BoatPart P25
+BoatPart P26
+BoatPart P27
+BoatPart P28
+BoatPart P29
+BoatPart P30
+BoatPart P31
+BoatPart P32
+BoatPart P33
+BoatPart P34
+BoatPart P35
+BoatPart P36
+BoatPart P37
+BoatPart P38
+BoatPart P39
+BoatPart P40
+BoatPart P41
+BoatPart P42
+BoatPart P43
+BoatPart P44
+BoatPart P45
+BoatPart P46
+BoatPart P47
+BoatPart P48
+BoatPart P49
+BoatPart P50
+BoatPart P51
+BoatPart P52
+BoatPart P53
+BoatPart P54
+BoatPart P55
+BoatPart P56
+BoatPart P57
+BoatPart P58
+BoatPart P59
+BoatSailPosition(Clone)
+Body
+Body Parts
+Bombable Portal Trigger
+Border(Clone)
+Boss (Pool)
+BossWithCrownstealer (Pool)
+Bottom Back
+Bottom Front
+Boulder (Pool)
+Boulder Explodes(Clone)
+Boulder Fragments P1
+Boulder Fragments P2
+Boulder Fragments P3
+Boulder Ground Dust P1
+Boulder Ground Dust P2
+Boulder Ground Dust P3
+Boulder P1
+Boulder P2
+Boulder P3
+Boulder P4
+Boulder P5
+Boulder P6
+Boulder P7
+Boulder P8
+Brake  Dust
+Bread (Pool)
+Bridge Very Short(Clone)
+Bridge Very Short(Clone) - NotFarmable
+Bridge Very Short(Clone) - NotGrassable
+Bridge(Clone)
+Bridge(Clone) - NotFarmable
+Bridge(Clone) - NotGrassable
+BronzeRank
+BronzeRankP2
+Building Dust P1
+Building Dust P2
+Building Dust P3
+Building Dust P4
+Building Dust P5
+Building Dust P6
+Building Dust P7
+Building Dust P8
+Building Dust P9
+Building Dust P10
+Building Group
+BuildSettlement
+Bunny Dies(Clone)
+Buttons
+C
+CallOfOlympusButton
+CallOfOlympusButtonFrame
+Camera
+Camera Marshaller
+CameraTargetIntro(Clone)
+Campaign
+Campfire
+Campfire Smoke
+CargoCarrier
+CargoSprite
+carousel1 (game start)(Clone)
+carousel2(Clone)
+Castle0(Clone)
+Castle0(Clone) - NotFarmable
+Castle0(Clone) - NotGrassable
+Castle1(Clone)
+Castle1(Clone) - NotFarmable
+Castle1(Clone) - NotGrassable
+Castle2(Clone)
+Castle2(Clone) - NotFarmable
+Castle2(Clone) - NotGrassable
+Castle3(Clone)
+Castle3(Clone) - NotFarmable
+Castle3(Clone) - NotGrassable
+Castle4(Clone)
+Castle4(Clone) - NotFarmable
+Castle4(Clone) - NotGrassable
+Castle 2 Tents Set Up(Clone)
+Castle 3 Wall Set Up(Clone)
+Castle 4 Keep Complete(Clone)
+Castle Background Proxy
+Castle Door
+Castle Front
+Castle Keep Building(Clone)
+castle_04_facade
+castle_04_roof
+castle_04_roof_bars
+castle_back_01_01
+castle_back_01_02
+castle_front_02
+Cave Boss Ambience(Clone)
+Cave Pool Ambience(Clone)
+Cave Tile Big (1)(Clone)
+Cave Tile Big (2)(Clone)
+Cave Tile Big (3)(Clone)
+Cave Tile Big (4)(Clone)
+Cave Tile Big (5)(Clone)
+Cave Tile Big(Clone)
+CaveAmbient
+CaveAmbient - NotBuildable
+CaveAmbient - NotGrassable
+caveboss_black_filler
+CaveBosshill(Clone)
+CaveEndBombPoint
+CaveEndRetreatPosition (1)(Clone)
+CaveMoss(Clone)
+CaveRain Near VFX
+CaveSpawnerTree(Clone)
+CaveWaterObject Reflection
+CaveWaterObject(Clone)
+ChallengeEnd
+ChallengeHelper
+Challenger
+ChallengeRankUp
+Challenges
+Chest(Clone)
+Chop Mark
+Chop Mark 0/1
+Chop Mark 2
+CinematicManager
+Citizen Gets Hit(Clone)
+Citizen Pays Taxes(Clone)
+Citizen Picks Up Coin(Clone)
+Citizen Runs(Clone)
+Cliff BGF(Clone)
+Cliff BGN(Clone)
+Cliff FG(Clone)
+Cliff Portal Ambience(Clone)
+Cliff Portal(Clone)
+Cliff Portal(Clone) - NotGrassable
+Cliff Stones Back(Clone)
+Cliff Stones Ground
+cliff_cave_back
+cliff_cave_stone01
+cliff_cave_stone02
+cliff_cave_stone03
+cliff_cave_stone05
+cliff_cave_stone06
+Closed
+Cloth
+Cloud Save Panel
+CloudCumulus(Clone)
+CloudSaveManager
+CloudsCumulus
+CloudsStratus
+CloudStratus(Clone)
+Coin (Pool 30+)
+Coin Hits Ground(Clone)
+Coin Indicator (Pool)
+Coin Indicator P1
+Coin Indicator P2
+Coin Indicator P3
+Coin Indicator P4
+Coin Indicator P5
+Coin Indicator P6
+Coin Indicator P7
+Coin Indicator P8
+Coin Indicator P9
+Coin Indicator P10
+Coin Indicator P11
+Coin Indicator P20
+Coin Indicator P21
+Coin Indicator P22
+Coin Indicator P23
+Coin Indicator P27
+Coin Indicator P28
+Coin Indicator P29
+Coin Indicator P30
+Coin Indicator P31
+Coin Indicator P32
+Coin Indicator P33
+Coin Indicator P34
+Coin Indicator P38
+Coin Indicator P39
+Coin Indicator P40
+Coin Indicator P41
+Coin Indicator P42
+Coin Indicator P43
+Coin Indicator P44
+Coin Indicator P45
+Coin Indicator P46
+Coin Indicator P47
+Coin Indicator P48
+Coin Indicator P49
+Coin Indicator P50
+Coin Indicator P51
+Coin Indicator P52
+Coin Indicator P53
+Coin Indicator P54
+Coin Indicator P55
+Coin Indicator P56
+Coin Indicator P57
+Coin Indicator P58
+Coin Indicator P59
+Coin Indicator P60
+Coin Indicator P64
+Coin Indicator P65
+Coin Indicator P66
+Coin Indicator P72
+Coin Indicator P73
+Coin Indicator P74
+Coin Indicator P75
+Coin Indicator P76
+Coin Indicator P81
+Coin Indicator P82
+Coin Indicator P83
+Coin Indicator P84
+Coin Indicator P90
+Coin Indicator P91
+Coin Indicator P92
+Coin Indicator P93
+Coin Indicator P94
+Coin Indicator P95
+Coin Indicator P96
+Coin Indicator P97
+Coin Indicator P98
+Coin Indicator P99
+Coin Indicator P100
+Coin Indicator P101
+Coin Indicator P102
+Coin Indicator P103
+Coin Indicator P104
+Coin Indicator P105
+Coin Indicator P106
+Coin Indicator P107
+Coin Indicator P108
+Coin Indicator P109
+Coin Indicator P110
+Coin Indicator P111
+Coin Indicator P112
+Coin Indicator P113
+Coin Indicator P119
+Coin Indicator P120
+Coin Indicator P121
+Coin Indicator P122
+Coin Indicator P123
+Coin Indicator P124
+Coin Indicator P125
+Coin Indicator P126
+Coin Indicator P127
+Coin Indicator P128
+Coin Indicator P129
+Coin Indicator P130
+Coin Indicator P131
+Coin Indicator P132
+Coin Indicator P133
+Coin Indicator P134
+Coin Indicator P135
+Coin Indicator P136
+Coin Indicator P137
+Coin Indicator P138
+Coin Indicator P139
+Coin Indicator P140
+Coin Indicator P141
+Coin Indicator P142
+Coin Indicator P143
+Coin Indicator P144
+Coin Indicator P145
+Coin Indicator P146
+Coin Indicator P147
+Coin Indicator P148
+Coin Indicator P149
+Coin Indicator P150
+Coin Indicator P151
+Coin Indicator P152
+Coin Indicator P153
+Coin Indicator P154
+Coin Indicator P155
+Coin Indicator P156
+Coin Indicator P157
+Coin Indicator P158
+Coin Indicator P159
+Coin Indicator P160
+Coin Indicator P161
+Coin Indicator P162
+Coin Indicator P163
+Coin Indicator P164
+Coin Indicator P165
+Coin Indicator P166
+Coin Indicator P167
+Coin Indicator P168
+Coin Indicator P169
+Coin Indicator P170
+Coin Indicator P171
+Coin Indicator P172
+Coin Indicator P173
+Coin Indicator P174
+Coin Indicator P175
+Coin Indicator P176
+Coin Indicator P177
+Coin Indicator P178
+Coin Indicator P179
+Coin Indicator P180
+Coin Indicator P181
+Coin Indicator P182
+Coin Indicator P183
+Coin Indicator P184
+Coin Indicator P185
+Coin Indicator P194
+Coin Indicator P195
+Coin Indicator P196
+Coin Indicator P197
+Coin Indicator P198
+Coin Indicator P199
+Coin Indicator P200
+Coin Indicator P201
+Coin Indicator P205
+Coin Indicator P206
+Coin Indicator P207
+Coin Indicator P213
+Coin Indicator P214
+Coin Indicator P215
+Coin Indicator P216
+Coin Indicator P217
+Coin Indicator P222
+Coin Indicator P223
+Coin Indicator P224
+Coin Indicator P225
+Coin Indicator P226
+Coin Indicator P227
+Coin Indicator P228
+Coin Indicator P229
+Coin Indicator P230
+Coin Indicator P231
+Coin Indicator P232
+Coin Indicator P233
+Coin Indicator P234
+Coin P10
+Coin P11
+Coin P12
+Coin P13
+Coin P14
+Coin P15
+Coin P16
+Coin P17
+Coin P18
+Coin P19
+Coin P20
+Coin P21
+Coin P22
+Coin P23
+Coin P24
+Coin P25
+Coin P26
+Coin P27
+Coin P28
+Coin P29
+Coin P30
+Coins Falls In Water(Clone)
+Collider
+Column1
+Column2
+Column3
+CompCacher
+Complete Tutorial
+Confirmation Prompt
+Constellation
+constellation_stars_0
+constellation_stars_1
+constellation_stars_2
+constellation_stars_3
+constellation_stars_4
+constellation_stars_5
+constellation_stars_6
+constellation_stars_7
+constellation_stars_8
+constellation_stars_9
+Content
+Continue
+ContinueGamePanel
+Control Group
+Control Last Spawn
+Control Player
+Controls
+CrashSprite
+Credits
+Crickets(Clone)
+Critter (Pool)
+Critter Hare Idle(Clone)
+Critter P1
+Critter P2
+Critter P3
+Critter P4
+Critter P5
+Critter P6
+Critter P7
+Critter P8
+Critter P9
+Critter P10
+Critter P11
+Critter P12
+Critter P13
+Critter P14
+Critter P15
+Critter P16
+Critter P17
+Critter_Tutorial(Clone)
+Crown
+Crown (Pool)
+Crown Catcher
+Crown Indicator (Pool)
+CrownImage
+CrownLeft
+CrownRight
+CrownStealer (Pool)
+Crowsnest
+Currency
+Currency Group
+CurrencyBag P1
+CurrencyBag P2
+Cursed
+CursorSystem
+Curtain
+Curtain Overlay
+CurtainCanvas
+CutdownAllTrees
+CutDownTreesRadius
+Day Counter
+Day Counter Panel
+Days Panel
+Deadlands
+DebugTools
+Decay
+Deer (Pool)
+Deer Dies(Clone)
+Deer Gets Hit(Clone)
+Deer P1
+Deer P2
+Deer P3
+Deer P4
+Deer P5
+Deer P6
+Deer P7
+Deer P8
+Deer P9
+Deer P10
+Deer P11
+Deer P12
+Deer P13
+Deer P14
+Deer Runs(Clone)
+Defeat Greed Now
+DemoText
+DestroyAllPortals
+DestroyClosestCave
+DestroyClosestPortal
+Difficulties
+Difficulty
+Difficulty Confirmation Prompt
+Difficulty Glyph
+Difficulty Level Text
+Difficulty Mode Text
+Difficulty Select Screen
+DifficultyText
+Director
+DisconnGlyph
+Distribute Archers
+DLC
+Driftwood 01
+Driftwood 02
+Driftwood 03
+DropManager
+DroppableBossGauntlet (Pool 5+)
+DroppableBossMask (Pool 5+)
+Easy
+Effect
+Effect(1)
+Eggs
+Eggs (1)
+EmbarkableManager
+Emblem
+EmissionBlocker (1)
+EmissionBlocker (2)
+Enemies
+EnemyObject
+EngageGlyph
+Engagement
+EngagementText
+EventSystem
+ExtremeForeground
+Eye
+EyeRoot
+Farmer (Pool)
+Farmhouse0(Clone)
+Farmland (Pool)
+Fence(Clone)
+Fill
+Fill (1)
+Fill Area
+FillFar
+FillFar (1)
+Fire
+fire
+Fire Burns(Clone)
+Fire Kindled(Clone)
+Fire Left
+Fire Placeholder
+Fire Right
+Fire Small Placeholder
+Fire(Clone)
+Fireflies (1)(Clone)
+Fireflies(Clone)
+Firefly
+Firefly (1)
+Firefly (2)
+Firefly (3)
+Firefly (4)
+Firefly (5)
+Firefly (6)
+Firefly (7)
+Firefly (8)
+Firefly (9)
+Firefly (10)
+Firefly (11)
+Firefly (12)
+Firefly (13)
+Firefly (14)
+Firefly (15)
+Fish (Pool 10+)
+Fish P1
+Fish P2
+Fish P3
+Fish P4
+Fish P5
+Fish P6
+Fish P7
+Fish P8
+Fish P9
+Fish P10
+Fish P11
+Fish P12
+Fish Splashes(Clone)
+FixedDirectionContainer(Clone)
+Flame Campfire New(Clone)
+Flame Small New(Clone)
+Fog(Clone)
+Fogs
+Foot Back
+Foot Dust P1
+Foot Dust P2
+Foot Dust P3
+Foot Dust P4
+Foot Dust P5
+Foot Dust P6
+Foot Dust P7
+Foot Dust P8
+Foot Dust P9
+Foot Dust P10
+Foot Dust P11
+Foot Dust P12
+Foot Front
+Forced Forest(Clone)
+ForceTreePlacement (1)(Clone)
+ForceTreePlacement (2)(Clone)
+ForceTreePlacement (3)(Clone)
+ForceTreePlacement (4)(Clone)
+ForceTreePlacement (5)(Clone)
+ForceTreePlacement (8)(Clone)
+ForceTreePlacement (9)(Clone)
+ForceTreePlacement Tutorial(Clone)
+ForceTreePlacement(Clone)
+Foreground
+ForegroundCloudLayer1
+ForegroundCloudLayer2
+ForegroundCloudLayer3
+ForegroundCloudLayer4
+ForegroundCloudLayer5
+ForegroundCloudLayer6
+ForegroundFarLayer
+ForegroundMidLayer
+ForegroundNearLayer
+ForegroundPeakLayer
+Forest Day(Clone)
+Forest Light
+Forest Night(Clone)
+Forest Wind(Clone)
+Forest(Clone)
+Forest(Clone) - Forest
+Forest(Clone) - NotBuildable
+Forest(Clone) - NotFarmable
+Forest(Clone) - NotGrassable
+ForestCurtainFarLayer
+ForestCurtainMidLayer
+ForestCurtainNearLayer
+FPS Text
+frombloom(Clone)
+Front
+Game
+Game Over Days
+Game Over Text
+GameLayer
+Gem (Pool)
+Gem Indicator (Pool)
+General
+Get Random Island Stats
+Ghost (Pool)
+Ghost P1
+Ghost(Clone)
+Give Coins
+Give Gems
+Glow
+Glyph
+Gold
+GoldRank
+GoldRankP2
+Goo Spawner
+Grass (1)(Clone)
+Grass (1)(Clone) - Flammable
+Grass (1)(Clone) - NotGrassable
+Grass (2)(Clone)
+Grass (2)(Clone) - Flammable
+Grass (2)(Clone) - NotGrassable
+Grass (Pool)
+Grass P1
+Grass P2
+Grass P3
+Grass P4
+Grass P5
+Grass P6
+Grass P7
+Grass P8
+Grass P9
+Grass P10
+Grass P11
+Grass P12
+Grass P13
+Grass P14
+Grass P15
+Grass P16
+Grass P17
+Grass P18
+Grass P19
+Grass P20
+Grass P21
+Grass P22
+Grass P23
+Grass P24
+Grass P25
+Grass P26
+Grass P27
+Grass P28
+Grass P29
+Grass P30
+Grass P31
+Grass P32
+Grass P33
+Grass P34
+Grass P35
+Grass P36
+Grass P37
+Grass P38
+Grass P39
+Grass P40
+Grass P41
+Grass P42
+Grass P43
+Grass P44
+Grass P45
+Grass P46
+Grass P47
+Grass P48
+Grass P49
+Grass P50
+Grass P51
+Grass P52
+Grass P53
+Grass P54
+Grass P55
+Grass P56
+Grass P57
+Grass P58
+Grass P59
+Grass P60
+Grass P61
+Grass P62
+Grass P63
+Grass P64
+Grass P65
+Grass P66
+Grass P67
+Grass P68
+Grass P69
+Grass P70
+Grass P71
+Grass P72
+Grass P73
+Grass P74
+Grass P75
+Grass P76
+Grass P77
+Grass P78
+Grass P79
+Grass P80
+Grass P81
+Grass P82
+Grass P83
+Grass P84
+Grass P85
+Grass P86
+Grass P87
+Grass P88
+Grass P89
+Grass P90
+Grass P91
+Grass P92
+Grass P93
+Grass P94
+Grass P95
+Grass P96
+Grass P97
+Grass P98
+Grass P99
+Grass P100
+Grass P101
+Grass P102
+Grass P103
+Grass P104
+Grass P105
+Grass P106
+Grass P107
+Grass P108
+Grass P109
+Grass P110
+Grass P111
+Grass P112
+Grass P113
+Grass P114
+Grass P115
+Grass P116
+Grass P117
+Grass P118
+Grass P119
+Grass P120
+Grass P121
+Grass P122
+Grass P123
+Grass P124
+Grass P125
+Grass P126
+Grass P127
+Grass P128
+Grass P129
+Grass P130
+Grass P131
+Grass P132
+Grass P133
+Grass P134
+Grass P135
+Grass P136
+Grass P137
+Grass P138
+Grass P139
+Grass P140
+Grass P141
+Grass P142
+Grass P143
+Grass P144
+Grass P145
+Grass P146
+Grass P147
+Grass P148
+Grass P149
+Grass P150
+Grass P151
+Grass P152
+Grass P153
+Grass P154
+Grass P155
+Grass P156
+Grass P157
+Grass P158
+Grass P159
+Grass P160
+Grass P161
+Grass P162
+Grass P163
+Grass P164
+Grass P165
+Grass P166
+Grass P167
+Grass P168
+Grass P169
+Grass P170
+Grass P171
+Grass P172
+Grass P173
+Grass P174
+Grass P175
+Grass P176
+Grass P177
+Grass P178
+Grass P179
+Grass P180
+Grass P181
+Grass P182
+Grass P183
+Grass P184
+Grass P185
+Grass P186
+Grass P187
+Grass P188
+Grass P189
+Grass P190
+Grass P191
+Grass P192
+Grass P193
+Grass P194
+Grass P195
+Grass P196
+Grass P197
+Grass P198
+Grass P199
+Grass P200
+Grass P201
+Grass P202
+Grass P203
+Grass P204
+Grass P205
+Grass P206
+Grass P207
+Grass P208
+Grass P209
+Grass P210
+Grass P211
+Grass P212
+Grass P213
+Grass P214
+Grass P215
+Grass P216
+Grass P217
+Grass P218
+Grass P219
+Grass P220
+Grass P221
+Grass P222
+Grass P223
+Grass P224
+Grass P225
+Grass P226
+Grass P227
+Grass P228
+Grass P229
+Grass P230
+Grass P231
+Grass P232
+Grass P233
+Grass P234
+Grass P235
+Grass P236
+Grass P237
+Grass P238
+Grass P239
+Grass P240
+Grass P241
+Grass P242
+Grass P243
+Grass P244
+Grass P245
+Grass P246
+Grass P247
+Grass P248
+Grass P249
+Grass P250
+Grass P251
+Grass P252
+Grass P253
+Grass P254
+Grass P255
+Grass(Clone)
+Grass(Clone) - Flammable
+Grass(Clone) - NotGrassable
+GravX
+GravY
+GravZ
+Greece
+Griffin Crashes(Clone)
+Griffin Cry(Clone)
+Ground
+Guard Position 1
+Guard Slot
+Guard Slot (1)
+Guard Slot (2)
+Guard Slot (3)
+HagletBehaviourTime
+Handle
+Handle Slide Area
+Hard
+HazeFar
+HazeFar (1)
+HazeMid
+HazeMid (1)
+HazeNear
+HazeNear (1)
+Head
+Header
+Heaven
+Heaven Player 2
+Hermit Dismount(Clone)
+Hermit House Ballista(Clone)
+Hermit House BGN(Clone)
+Hide Debugger
+Hill(Clone)
+Hint Build Wall Waiting(Clone)
+Hint Build Wall(Clone)
+Hint Buy Bow(Clone)
+Hint Buy Hammer(Clone)
+Hint Crown Loss(Clone)
+Hint Cut Tree Waiting(Clone)
+Hint Cut Tree(Clone)
+Hint Empower Bow(Clone)
+Hint Empower Hammer(Clone)
+Hint Final(Clone)
+Hint Get Another Archer(Clone)
+Hint Grazing(Clone)
+Hint Greed Defeated(Clone)
+Hint Hunt Bunny(Clone)
+Hint Light Fire(Clone)
+Hint New Crown(Clone)
+Hint New Reign(Clone)
+Hint Promote Beggar(Clone)
+Hint Recruit Another Beggar(Clone)
+Hint Run(Clone)
+Hint Skip Intro(Clone)
+Hint Wait For Worker(Clone)
+Holder
+Hooded(Clone)
+Horse Eats(Clone)
+Horse Gallops(Clone)
+Horse Head Swish(Clone)
+Horse Regular(Clone)
+Horse Walks Soft(Clone)
+Horse Walks(Clone)
+HorseReins
+IceFloes Controller(Clone)
+IceFlows Biome Placeholder
+IconContainer
+Icons
+In Game Button
+Infinite Stamina
+InfoIntroduction(Clone)
+InfoTextRulerAbilityControls(Clone)
+Interface Camera
+Interface Overlay Canvas
+Interface Permanent Overlay Canvas
+Invisible Wall
+Invulnerable Rulers
+InvunerableWalls
+IslandDayText
+ItemOfPowerGreece
+ItemOfPowerP2Greece
+Items
+JobPriorities
+K80sOakAndBirch
+Keep
+Kingdom
+Kingdom Bustle(Clone)
+Kingdom Text
+Knight (Pool)
+kodamasunset(Clone)
+LandOneMonument(Clone)
+LandsCompleteText
+LandsVistedText
+Lantern
+Leaves
+leaves
+Left
+Level
+licorice
+Light Beam BG(Clone)
+LightFaker
+Lighthouse Greed Ambience(Clone)
+Lighthouse Greed Attack And Open(Clone)
+Lighthouse_undeveloped(Clone)
+Loader
+Loader Player
+Loader Player 2
+Lock Indicator
+LockIcon
+LockIndicator (Pool)
+LockIndicator P1
+LockIndicator P2
+LockIndicator P3
+LockIndicator P4
+LockIndicator P5
+LockIndicator P6
+LockIndicator P7
+LockIndicator P8
+LockIndicator P9
+LockIndicator P10
+Logo
+LokiDetransformationTrigger
+Lose Crown
+LoseGameNow
+LostPkg Text
+LostRank
+LostRankP2
+Main Buttons
+MainCamera
+ManagePlayfabAccountButton
+Managers
+ManualScrollRect
+Map Board
+Map Button
+Mask
+Melt Snow
+Memory
+Menu
+Menu Button Mouseover(Clone)
+Menu Button Press(Clone)
+Menu Close(Clone)
+Menu Hint
+Menu Open(Clone)
+Merchant
+Merchant Drops Coins(Clone)
+Merchant House (1)(Clone)
+Merchant House Back
+Merchant House Campfire
+Merchant Paid(Clone)
+Merchant(Clone)
+Min FPS Text
+Minus
+Misc Group
+MiscPanel
+Mist(Clone)
+Mists
+Moon
+Moss
+Moss - NotGrassable
+Moss(Clone)
+MountAreaGriffin(Clone)
+MoveInfoText(Clone)
+MovingPlayerBlocker
+Mule(Clone)
+Network User Panels
+Networking
+New Game Object
+New Sprite
+New Text
+NewGameButton
+NewGamePanel
+Next Available Ruler
+Next Item of Power
+Next Item of Power P2
+noio
+NoMusic(Clone)
+Normal
+NorseLands
+Norselands
+OakAndBirch
+oakTree(Clone)
+oakTreeBG(Clone)
+Object Pools
+ObjectHint (Pool)
+ObjectHint P1
+ObjectHint P2
+ObjectText
+ObjectText Shadow
+Oil Barrel (Pool)
+Oil Pool (Pool)
+Options
+Outer Group
+Panel
+ParallaxAnchor
+Particles
+Passenger
+Pause
+pause(Clone)
+Pay For Selection
+Payables
+Peaceful
+Peasant (Pool)
+Peasant Becomes Archer(Clone)
+Peasant Becomes Worker(Clone)
+Peasant P1 [8]
+Peasant P2 [9]
+Physical Collider
+Pikeman (Pool)
+Ping Text
+PlayButton
+Player 1
+Player Builds Structure(Clone)
+Player Buys Item(Clone)
+Player Changes Mount(Clone)
+Player Coin Drops in Bag(Clone)
+Player Drops Coin(Clone)
+Player Makes Noise(Clone)
+Player Marks Tree(Clone)
+Player Pays Tool Merchant(Clone)
+Player Picks Up Coin(Clone)
+Player Spending Intermediate(Clone)
+Player Sprite
+Player(Clone)
+PlayerBlocker
+PlayfabAnalytics
+PlayFabFriendsList
+PlayFabHttp
+PlayFabInvitePopup
+PlayfabManager
+PlayFabMultiplayerManager
+PlayFabRefreshingPartyOverlay
+Plus
+Point light
+PostFX
+PrecipitationFar P1
+PrecipitationFar P2
+PrecipitationNear P1
+PrecipitationNear P2
+Prefabs
+Present (Pool)
+Progress Bar
+ProgressHelper
+Pseudo Target
+Puff
+Push Positions
+Rain Far VFX
+Rain Near VFX
+Rain(Clone)
+Randomize Appearance
+Randomize Appearance Not Ruler
+raw fury
+Reassign Work
+Reflected Light Small
+Reflection
+Rendering
+RerouteLog
+Reset Achievements
+RestartButton
+Retreat Enemies
+Revision Number
+Rewired Input Manager
+RichPresence
+Rider
+Rider Offset Anchor
+Right
+Ripple
+Ripple VFX
+RippleSource
+River(Clone)
+Rock
+Rocks
+Rocks(Clone)
+RocksCave(Clone)
+Rollable Oil Barrel (Pool)
+Roots(Clone)
+RotX
+RotY
+RotZ
+RulerAbilityText
+Safe Area Overlay
+Sail
+Sail Reflection
+SailAway
+Save and Quit
+Save Hint
+Save Icon
+Save Prompt
+SavePanel(Clone)
+Saves
+SaveSlotsMenu
+SaveTitleText
+SaveTitleTextHighlight
+SaveWarningScreen
+Scaffold01
+Scaffold03
+Scaffolding
+scaffolds_01
+scaffolds_02
+scaffolds_03
+scaffolds_04
+scaffolds_05
+scaffolds_06
+scaffolds_07
+scaffolds_08
+scaffolds_09
+Screen Camera
+Screen Quad
+Section
+Section (1)
+Select Biome Glyph
+Select Glyph
+Select Text
+Selector
+ShadeCollider
+Shadow
+Shake Offset
+Shield
+Shield BG
+Shield Emblem
+Shield Pattern
+Shield Plaque
+Shield Shieldrim
+Shield Shine
+Shield(Clone)
+ShieldPlaceholder
+Shogun
+Shop Construction Complete(Clone)
+Shop Construction(Clone)
+Shop Sparkles
+ShopBow Placeholder(Clone)
+ShopBow(Clone)
+ShopBow(Clone) - NotFarmable
+ShopBow(Clone) - NotGrassable
+ShopHammer Placeholder(Clone)
+ShopHammer(Clone)
+ShopHammer(Clone) - NotFarmable
+ShopHammer(Clone) - NotGrassable
+ShopPlanner
+ShopScythe Placeholder(Clone)
+ShopScythe(Clone)
+ShopScythe(Clone) - NotFarmable
+ShopScythe(Clone) - NotGrassable
+ShoreAudioEmitterPosition
+Shoreline(Clone)
+Show Floater
+Show FPS
+Shrub - NotGrassable
+Shrub Big BG(Clone)
+Shrub Big(Clone)
+Shrub Birds (1)(Clone)
+Shrub Birds - NotGrassable
+Shrub Birds(Clone)
+Shrub(Clone)
+Sign
+SilverRank
+SilverRankP2
+Skeleton Base
+Skeleton Parts
+Skin Confirmation Prompt
+Skin Glyph
+Skin Select Screen
+Skins container
+SkinSelectorTemplate(Clone)
+Sky
+SkyEffects
+Slider
+Slider Panel
+Slope Left
+Slope Right
+Small Stars
+Snow (Pool 100+)
+Snow Controller
+Snow Far VFX
+Snow Near VFX
+sparkles
+Spawn
+Spawn Cave Troops
+Spawn Debug Wave
+Spawn Group
+SpawnAtCameraPos
+Spawner
+SpawnerGoo
+SpawnGoo
+Spawning Enabled
+Spit Pool (Pool)
+SpitObject
+Splash
+Splash Mid (Pool 0-6 EX)
+Splash Mid P1
+Splash Mid P2
+Splash Mid P3
+Splash Mid P4
+Splash Mid P5
+Splash Mid P6
+Splitscreen Divider
+SplitScreenCoop
+Sprite
+Squid (Pool)
+Squire (Pool)
+Stars
+Starting Screens
+Stats
+Statue Archer(Clone)
+Statue BG(Clone)
+Statue Clean Leaves
+Status Text
+SteamManager
+Steed
+Steed Foot Sparkles P1
+Steed Foot Sparkles P2
+StolenBoatPart (Pool)
+Stone 01
+Stone 01 Reflection
+Stone 02
+Stone 02 Reflection
+Stone 03
+Stone 03 Reflection
+Stone Dust P1
+Stone Dust P2
+Stone Dust P3
+Stone Dust P4
+Stone Dust P5
+Stone Dust P6
+Stone Dust P7
+Stone Dust P8
+Structure
+subParallaxLayer 0
+subParallaxLayer 1
+subParallaxLayer 2
+subParallaxLayer 3
+subParallaxLayer 4
+subParallaxLayer 5
+subParallaxLayer 6
+subParallaxLayer 7
+subParallaxLayer 8
+subParallaxLayer 9
+subParallaxLayer 10
+subParallaxLayer 11
+subParallaxLayer 12
+subParallaxLayer 13
+subParallaxLayer 14
+subParallaxLayer 15
+subParallaxLayer 16
+subParallaxLayer 17
+subParallaxLayer 18
+subParallaxLayer 19
+Subtitle
+Summer Meadow(Clone)
+SummonBell
+Sun
+Surface
+SwitchControls
+Tab Select
+TargetCache
+Taxes Collider
+Teleport
+Tents
+Tents 1
+tents_big
+tents_small
+tents_small 1
+Text
+Text (1)
+Text Group
+Thicket (Pool)
+Thicket P1
+Thicket P2
+Thicket P3
+Thicket P4
+Thicket P5
+Thicket P6
+Thicket P7
+Thicket P8
+Thunderstorm Controller
+ThunderstormFlashSky
+ThunderstormFlashWater
+Tile Big 1 (1)(Clone)
+Tile Big 1 (2)(Clone)
+Tile Big 1 (4)(Clone)
+Tile Big 1(Clone)
+Tile Big 2(Clone)
+Tile Big 3 (1)(Clone)
+Tile Big 3(Clone)
+Tile Big 4(Clone)
+Tile Big 5(Clone)
+Tile Big 6(Clone)
+Tile Big 7(Clone)
+Tile Big 8(Clone)
+Tile Big 9 (1)(Clone)
+Tile Big 9(Clone)
+Tile Big 10 (1)(Clone)
+Tile Big 10(Clone)
+Tile Big (1)(Clone)
+Tile Big (2)(Clone)
+Tile Big (3)(Clone)
+Tile Big (4)(Clone)
+Tile Big (5)(Clone)
+Tile Big(Clone)
+Tile Blank (1)(Clone)
+Tile Blank(Clone)
+Tile Clearing (1)(Clone)
+Tile Clearing (2)(Clone)
+Tile Clearing(Clone)
+Tile Forest (1)(Clone)
+Tile Forest (2)(Clone)
+Tile Forest (3)(Clone)
+Tile Forest Building(Clone)
+Tile Forest(Clone)
+Time Group
+Time Text
+Timescale
+Timescale Value
+Title Back
+Title Biome Bamboo
+Title Biome Deadlands
+Title Biome Greece
+Title Biome K80sOak
+Title Biome Norselands
+Title Biome Oak
+Title Crown(Clone)
+Title Crumbles(Clone)
+Title Front
+Title Logo Sequence
+Title(Clone)
+title_back_s008_008
+title_back_s008_028
+title_back_s008_056
+title_back_s016_028
+title_back_s040_044
+title_back_s040_064
+title_back_s064_032
+title_back_s064_060
+title_back_s088_044
+title_back_s088_064
+title_back_s116_008
+title_back_s116_028
+title_back_s116_044
+title_back_s116_064
+title_back_s144_048
+title_back_s152_008
+title_back_s152_024
+title_back_s188_036
+title_back_s188_064
+title_back_s192_012
+title_back_s232_032
+title_back_s240_024
+title_back_s248_008
+title_back_s248_064
+title_back_s260_048
+title_back_s264_032
+title_back_s288_052
+title_back_s312_052
+title_bolt_01
+title_bolt_02
+title_bolt_03
+title_bolt_04
+title_front_s008_052
+title_front_s012_064
+title_front_s024_040
+title_front_s040_016
+title_front_s064_008
+title_front_s068_016
+title_front_s092_020
+title_front_s108_048
+title_front_s160_040
+title_front_s164_052
+title_front_s168_060
+title_front_s196_064
+title_front_s208_012
+title_front_s212_040
+title_front_s216_060
+title_front_s296_024
+title_front_s312_040
+title_front_s320_004
+title_front_s320_028
+TitleCrown
+Toggle Taxes
+Toggles Group
+Tool Purchase
+ToolArmor (Pool)
+ToolBow (Pool)
+ToolBow P1
+ToolHammer (Pool)
+ToolHammer P1
+ToolPike (Pool)
+ToolScythe (Pool)
+ToolShield (Pool)
+Torch
+Touch Hints Canvas
+TouchControls
+TouchInputCoopBottom
+TouchInputCoopTop
+TouchInputSinglePlayer
+Tower0(Clone)
+Tower0B
+Tower0B 1 (1)(Clone)
+Tower0B 1(Clone)
+Tower0B (1)(Clone)
+Tower1
+Tower1 (1)
+Tower1(Clone)
+Tower2
+Tower2(Clone)
+Tower3
+Tower Construction Complete(Clone)
+Transform Sparkles P1
+Transform Sparkles P2
+Transform Sparkles P3
+Treasure BGN(Clone)
+Tree Chop Leaves P1
+Tree Chop Leaves P2
+Tree Chop Leaves P3
+Tree Chop Leaves Spawner
+Tree Curtain Far(Clone)
+Tree Curtain(Clone)
+Tree(Clone)
+Trigger Endless Night
+Trigger Game Start(Clone)
+Trigger Rearing
+Trigger Red Moon Effect
+TriggerArea
+Triggers Group
+Troll
+Troll (Pool 10+)
+Troll Charges(Clone)
+Troll Container
+Troll Dies(Clone)
+Troll Gets Hit(Clone)
+Troll P1
+Troll P2
+Troll P3
+Troll P4
+Troll P5
+Troll P6
+Troll P7
+Troll P8
+Troll P9
+Troll P10
+Troll P11
+Troll P12
+Troll Picks Up Coin(Clone)
+Troll Walks(Clone)
+Troll_peasant (Pool 10+)
+Trollcave Gets Mad(Clone)
+TrollMask (Pool)
+Trunk
+trunk
+Tutorial
+TutorialWall_LeftIntro(Clone)
+TutorialWall_RightBeggars(Clone)
+TutorialWall_RightCamp(Clone)
+UI Day Counter Appears(Clone)
+UsernameText
+Viewport
+Vignette
+VisionBlockerBehind
+VolcanoDebris (Pool)
+Wall0
+Wall0(Clone)
+Wall1(Clone)
+Wall1(Clone) - NotFarmable
+Wall1(Clone) - NotGrassable
+Wall2(Clone)
+Wall2(Clone) - NotFarmable
+Wall2(Clone) - NotGrassable
+Wall Construction Complete(Clone)
+Wall Gets Hit(Clone)
+Wall Sparkles(Clone)
+WarningPanel
+Water
+Water (1)
+Watermark Canvas
+Watermark Text
+WaterReed Reflection
+WaterReed(Clone)
+Wave Retreats(Clone)
+Wharf(Clone)
+Wind(Clone)
+Winter Day Forest(Clone)
+Winter Day Meadow(Clone)
+Winter Night Forest(Clone)
+Winter Night Meadow(Clone)
+Winter Wind(Clone)
+Worker (Pool)
+Worker Builds(Clone)
+Worker Chops Down Tree(Clone)
+Worker P1 [B]
+World
+Wreck(Clone)
